@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mailam2120
+- 👋 Hi, I’m Mai Lam
 - 👀 I’m interested in Front-end Development and User Interface Design.
 - 🌱 I’m currently learning ReactJS.
 - 📫 Contact me: mailam2120@gmail.com
